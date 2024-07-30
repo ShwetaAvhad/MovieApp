@@ -1,0 +1,12 @@
+C:\Dotnet\26 Jul 2024\MovieAppLibrary\MovieAppLibrary\bin\Debug\net8.0\MovieAppLibrary.deps.json
+C:\Dotnet\26 Jul 2024\MovieAppLibrary\MovieAppLibrary\bin\Debug\net8.0\MovieAppLibrary.dll
+C:\Dotnet\26 Jul 2024\MovieAppLibrary\MovieAppLibrary\bin\Debug\net8.0\MovieAppLibrary.pdb
+C:\Dotnet\26 Jul 2024\MovieAppLibrary\MovieAppLibrary\obj\Debug\net8.0\MovieAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\26 Jul 2024\MovieAppLibrary\MovieAppLibrary\obj\Debug\net8.0\MovieAppLibrary.AssemblyInfoInputs.cache
+C:\Dotnet\26 Jul 2024\MovieAppLibrary\MovieAppLibrary\obj\Debug\net8.0\MovieAppLibrary.AssemblyInfo.cs
+C:\Dotnet\26 Jul 2024\MovieAppLibrary\MovieAppLibrary\obj\Debug\net8.0\MovieAppLibrary.csproj.CoreCompileInputs.cache
+C:\Dotnet\26 Jul 2024\MovieAppLibrary\MovieAppLibrary\obj\Debug\net8.0\MovieAppLibrary.dll
+C:\Dotnet\26 Jul 2024\MovieAppLibrary\MovieAppLibrary\obj\Debug\net8.0\refint\MovieAppLibrary.dll
+C:\Dotnet\26 Jul 2024\MovieAppLibrary\MovieAppLibrary\obj\Debug\net8.0\MovieAppLibrary.pdb
+C:\Dotnet\26 Jul 2024\MovieAppLibrary\MovieAppLibrary\obj\Debug\net8.0\ref\MovieAppLibrary.dll
+C:\Dotnet\26 Jul 2024\MovieAppLibrary\MovieAppLibrary\obj\Debug\net8.0\MovieAppLibrary.csproj.AssemblyReference.cache
